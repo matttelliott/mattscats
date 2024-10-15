@@ -1,0 +1,6 @@
+baseURL = 'https://matttelliott.com/mattscats/'
+languageCode = 'en-us'
+title = "Matt's cats"
+theme = 'hugo-theme-gallery'
+footnote = '<a href="https://matttelliott.com">matttelliott.com</a>'
+publishDir = 'docs/'
